@@ -1,4 +1,4 @@
-### Hi there 👋
+### 에러를 보면 침이 나옵니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmm522&show_icons=true&theme=radical)
 
