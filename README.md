@@ -1,4 +1,4 @@
-### 에러를 보면 침이 나오는 개발자 김지인입니다.
+### 에러를 보면 침이 나오는 백엔드 개발자 김지인입니다.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bmm522&show_icons=true&theme=radical)
 
