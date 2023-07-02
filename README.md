@@ -4,9 +4,11 @@
 
 ### 에러를 보면 침이 나오는 백엔드 개발자 김지인입니다.
 
-✉️ rlawldls11@gmail.com
+
+
   ---
   
+  ✉️ rlawldls11@gmail.com
   
 ### Back-End 
   Java11, TypeScript, Spring, Node.js
